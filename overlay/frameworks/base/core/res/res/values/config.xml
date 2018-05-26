@@ -324,4 +324,7 @@
          config to 7. -->
     <integer name="config_deviceHardwareKeys">83</integer>
 
+    <!-- button brightness -->
+    <bool name="config_button_brightness_support">true</bool>
+
 </resources>

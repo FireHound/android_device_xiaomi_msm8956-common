@@ -1,22 +1,17 @@
 [
   {
-   "repository": "shamith16/kernel_xiaomi_msm8956",
+   "repository" : "shamith16/kernel_xiaomi_msm8956",
    "target_path": "kernel/xiaomi/msm8956",
-   "branch": "oreo-mr1",
-   "remote": "github"
-},
-                                                                                          
+   "branch"     : "oreo-mr1"
+  },                                                                                      
   {
-   "repository": "shamith16/proprietary_vendor_xiaomi",
+   "repository" : "shamith16/proprietary_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
-   "branch": "oreo-mr1",
-   "remote": "github"
-},
-                                                                                          
+   "branch"     : "oreo-mr1"
+  },                                                                          
   {
-   "repository": "LineageOS/android_packages_resources_devicesettings",
+   "repository" : "LineageOS/android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings",
-   "branch": "lineage-15.1",
-   "remote": "github"
+   "branch"     : "lineage-15.1"
   }                                                                                       
 ]
